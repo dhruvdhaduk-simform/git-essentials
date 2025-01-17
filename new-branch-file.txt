@@ -1,1 +1,1 @@
-This is the a file in new-branch.
+This is the a file in new-branch. (Now in all branches)
