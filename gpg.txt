@@ -1,0 +1,1 @@
+Now we should see 'varified' in github commit history.
